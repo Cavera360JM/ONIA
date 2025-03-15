@@ -1,2 +1,0 @@
-# ONIA
-Missao-Astro-Junior
